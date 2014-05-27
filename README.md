@@ -14,7 +14,11 @@ Longevity: Wearing parts are to be limited to Commercial off the shelf COTS item
 Installation: should be able to be done with only a drill, and hardware
 
 Development Stages:
+
 1)the Catch First -- Prototype ready for testing
+
 2)Grip and trigger -- Brain storming in progress
+
 3)Assembly Jigs
+
 4)Installation and servicing procedures
